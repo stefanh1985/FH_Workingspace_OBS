@@ -160,6 +160,90 @@ https://www.uni-goettingen.de/de/document/download/01cdc2dcea864b4edafce8fa1e452
 
 
 
+## ❓FAQ 
+<div style="width:100%;height:0;padding-bottom:101%;position:relative;"><iframe src="https://giphy.com/embed/hGRlr5VjYsTVZOcWm3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/wind-answer-question-mark-hGRlr5VjYsTVZOcWm3">via GIPHY</a></p>
+
+
+<details>
+  <summary>Was ist OBS?</summary>
+  OBS (Open Broadcaster Software) ist ein kostenloses Open-Source-Programm, das zum Aufzeichnen und Streamen von Video- und Audioinhalten verwendet wird.
+</details>
+
+<details>
+  <summary>Wie installiere ich OBS?</summary>
+  Um OBS zu installieren, folge diesen Schritten:
+  1. Gehe auf die [offizielle OBS-Website](https://obsproject.com/).
+  2. Wähle dein Betriebssystem (Windows, macOS oder Linux).
+  3. Lade die Installationsdatei herunter und führe sie aus.
+  4. Folge den Anweisungen des Installationsassistenten.
+</details>
+
+
+<details>
+  <summary>Wie richte ich eine Aufnahme ein?</summary>
+  Um eine Aufnahme einzurichten, gehe wie folgt vor:
+  1. Öffne OBS.
+  2. Klicke auf das "+"-Symbol unter "Quellen" und wähle die gewünschte Quelle (z.B. Bildschirmaufnahme, Fensteraufnahme, etc.).
+  3. Konfiguriere die Quelle nach deinen Wünschen.
+  4. Klicke auf "Start Recording" (Aufnahme starten).
+</details>
+
+<details>
+  <summary>Wie starte ich einen Livestream?</summary>
+  Um einen Livestream zu starten, folge diesen Schritten:
+  1. Öffne OBS.
+  2. Klicke auf "Einstellungen" und gehe zum Abschnitt "Stream".
+  3. Wähle die Streaming-Plattform (z.B. Twitch, YouTube, Facebook Live).
+  4. Gib deinen Stream-Schlüssel ein (diesen erhältst du von der jeweiligen Plattform).
+  5. Klicke auf "Start Streaming" (Streaming starten).
+</details>
+
+<details>
+  <summary>Warum sehe ich einen schwarzen Bildschirm?</summary>
+  Ein schwarzer Bildschirm kann verschiedene Ursachen haben:
+  1. Stelle sicher, dass du die richtige Quelle ausgewählt hast.
+  2. Überprüfe, ob die Quelle korrekt konfiguriert ist.
+  3. Aktualisiere deine Grafiktreiber.
+  4. Starte OBS und/oder deinen Computer neu.
+</details>
+
+<details>
+  <summary>Wie kann ich die Audioeinstellungen anpassen?</summary>
+  Um die Audioeinstellungen anzupassen, folge diesen Schritten:
+  1. Öffne OBS.
+  2. Gehe zu "Einstellungen" und wähle "Audio".
+  3. Hier kannst du die verschiedenen Audioeingangs- und -ausgangsgeräte auswählen und konfigurieren.
+  4. Du kannst auch die Lautstärke und andere Audioeigenschaften anpassen.
+</details>
+
+<details>
+  <summary>Wo werden meine Aufnahmen gespeichert?</summary>
+  Die Aufnahmen werden standardmäßig in deinem Videos-Ordner gespeichert. Du kannst den Speicherort ändern, indem du zu "Einstellungen" > "Ausgabe" gehst und den Pfad unter "Aufnahme" anpasst.
+</details>
+
+<details>
+  <summary>Kann ich OBS auf mehreren Monitoren verwenden?</summary>
+  Ja, du kannst OBS auf mehreren Monitoren verwenden. Füge einfach mehrere Bildschirmquellen hinzu und wähle für jede Quelle den entsprechenden Monitor aus.
+</details>
+
+<details>
+  <summary>Wie füge ich Text zu meinem Stream hinzu?</summary>
+  Um Text hinzuzufügen, gehe wie folgt vor:
+  1. Klicke auf das "+"-Symbol unter "Quellen".
+  2. Wähle "Text (GDI+)".
+  3. Gib den gewünschten Text ein und konfiguriere das Aussehen nach deinen Wünschen.
+</details>
+
+<details>
+  <summary>Wie behebe ich Performance-Probleme?</summary>
+  Hier sind einige Tipps zur Behebung von Performance-Problemen:
+  1. Reduziere die Auflösung deiner Aufnahme oder deines Streams.
+  2. Senke die Bitrate in den Einstellungen.
+  3. Schließe andere Programme, die viel CPU oder RAM verwenden.
+  4. Aktualisiere deine Treiber und OBS auf die neueste Version.
+</details>
+```
+
 # ❣️ Best Practice Beispiel(e)
 
 
